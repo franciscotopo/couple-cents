@@ -1,6 +1,6 @@
-# Copilot Instructions for React Template
+# Copilot Instructions for Couple Cents
 
-This document provides general guidelines and conventions for working with this React boilerplate repository. For specific file patterns, see the modular instruction files in `.github/instructions/`.
+This document provides general guidelines and conventions for working with this repository. For specific file patterns, see the modular instruction files in `.github/instructions/`.
 
 ## Instruction Files Structure
 

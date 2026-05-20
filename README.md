@@ -69,7 +69,3 @@ E.g: Blocking feedback must be addressed before merging.
 | Non-blocking | 🟡 💡 🤔 💭    | Yellow, thinking, etc               |
 | Praise       | 🟢 💚 😍 👍 🙌 | Green, hearts, positive emojis, etc |
 
-## Links
-
-- [Git Flow](https://lightit.slite.com/app/docs/SC8usN2Ju)
-- [Handbook of good practices for reviewers in Code Reviews](https://lightit.slite.com/app/docs/ddNGohWthVB3fO)
