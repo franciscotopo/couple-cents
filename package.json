@@ -54,7 +54,7 @@
     "@tanstack/react-router": "^1.140.1",
     "@tanstack/react-router-devtools": "^1.140.1",
     "@tanstack/react-table": "^8.21.3",
-    "axios": "^1.13.5",
+    "axios": "^1.16.1",
     "cmdk": "^1.1.1",
     "date-fns": "^4.1.0",
     "i18next": "^25.7.2",
